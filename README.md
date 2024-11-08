@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 :cake:  \
 :apple: 
 
-### 經歷
-:ant: Fu-Jen university
 
 ### 信箱
 :ant: appappapp494@gmail.com
