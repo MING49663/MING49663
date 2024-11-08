@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### 我的個人介面
 
-###技能
-:lion:  java programming\
+### 技能 
+:lion: java programming\
 :tiger2:  \
 :cake:  \
 :apple: 
