@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 我的個人介面 
-:lion: 欄位1 \
-:tiger2: 欄位2 \
-:cake: 欄位3 \
-:apple: 欄位4
+### 我的個人介面
+
+###技能
+:lion:  java programming\
+:tiger2:  \
+:cake:  \
+:apple: 
 
 ### 經歷
 :ant: Fu-Jen university
