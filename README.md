@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 我的個人介面
 
 ### 技能 
-:coffee:programming: C / java \
+:coffee:programming:  Java / C  \
 :tiger2:  \
 :cake:  \
 :apple: 
