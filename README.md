@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 :apple: 欄位4
 
 ### 學經歷
-:ant: Fu-Jen unversity
+:ant: Fu-Jen university
 
 ### 信箱
 :ant: appappapp494@gmail.com
