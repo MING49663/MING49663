@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 :cake: 欄位3 \
 :apple: 欄位4
 
-### 學經歷
+### 經歷
 :ant: Fu-Jen university
 
 ### 信箱
